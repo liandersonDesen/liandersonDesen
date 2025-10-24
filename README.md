@@ -1,6 +1,6 @@
-# Olá! 👋 Sou Lianderson, Desenvolvedor Full-Stack
+# Olá! 👋 Sou Lianderson, Desenvolvedor Back-end
 
-### ✨ Focado em Back-end, Performance e Arquitetura de Software.
+### ✨ Focado em Performance e Arquitetura de Software.
 
 Sou apaixonado por transformar requisitos de negócio em soluções robustas e escaláveis, utilizando o ecossistema Node.js.
 
