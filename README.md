@@ -5,7 +5,7 @@
 Sou apaixonado por transformar requisitos de negócio em soluções robustas e escaláveis, utilizando o ecossistema Node.js.
 
 - 🔭 Atualmente, estou focado em projetos com **NestJS**, **TypeScript** e **Prisma ORM**.
-- 💡 Meu último grande projeto foi a **Plataforma de Inovação Aberta Corporativa**, uma API Multi-tenant.
+- 💡 Meu último grande projeto foi a [**Plataforma de Inovação Aberta Corporativa**](https://github.com/Amontada-Valley-Codes/Plataforma-de-Inova-o-Aberta-Corporativa-squard3-back-end), uma API Multi-tenant.
 - 🌱 Estou sempre aprimorando minhas habilidades em arquitetura limpa (Clean Architecture) e padrões de design.
 - 🤝 Procuro colaborar em projetos open-source que envolvam desenvolvimento Back-end de alto nível.
 
