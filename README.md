@@ -4,7 +4,6 @@
 
 Sou apaixonado por transformar requisitos de negócio em soluções eficientes, escaláveis e inovadoras, atuando tanto no **back-end** quanto no **front-end** em projetos colaborativos com metodologias ágeis.
 
-- 🔭 Atualmente cursando **Full-stack** no **Amontada Valley (2026)**, aprofundando **React**, **Node.js**, **NestJS**, **Prisma**, **MongoDB**, **Mongoose** e **PostgreSQL**.
 - 💡 Projetos recentes de destaque:
   - [**Copa Resultado (2026)**](https://github.com/liandersonDesen/copa-resultado) — Projeto desenvolvido no Amontada Valley (2026) para acompanhamento e organização de resultados.
   - [**IBGE-Analytics (2026)**](https://github.com/codevdu/IBGE-Analytics) — Projeto colaborativo do Amontada Valley (2026) focado em análise e visualização de dados.
